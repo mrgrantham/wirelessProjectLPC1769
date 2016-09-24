@@ -1,0 +1,725 @@
+Archive member included to satisfy reference by file (symbol)
+
+Drivers/liblpcdriver.a(lpc17xx_pinsel.o)
+                              /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o (PINSEL_ConfigPin)
+Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                              /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o (GPIO_SetDir)
+Drivers/liblpcdriver.a(lpc17xx_clkpwr.o)
+                              /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o (CLKPWR_ConfigPPWR)
+/Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-exit.o)
+                              /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (exit)
+/Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-impure.o)
+                              /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-exit.o) (_global_impure_ptr)
+/Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-init.o)
+                              /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (__libc_init_array)
+/Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-memset.o)
+                              /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (memset)
+/Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-reent.o)
+                              /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o (errno)
+/Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-__call_atexit.o)
+                              /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-exit.o) (__call_exitprocs)
+/Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-atexit.o)
+                              /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-__call_atexit.o) (atexit)
+/Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-fini.o)
+                              /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-freer.o)
+                              /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-reent.o) (_free_r)
+/Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-mallocr.o)
+                              /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-freer.o) (__malloc_current_mallinfo)
+/Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-mlock.o)
+                              /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-freer.o) (__malloc_lock)
+/Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-sbrkr.o)
+                              /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-freer.o) (_sbrk_r)
+/Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-__atexit.o)
+                              /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-atexit.o) (__register_exitproc)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-reent.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000080000 xr
+SRAM             0x0000000010000000 0x0000000000008000 xrw
+AHBRAM0          0x000000002007c000 0x0000000000004000 xrw
+AHBRAM1          0x0000000020080000 0x0000000000004000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+LOAD /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+LOAD /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+LOAD /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//ccT8NwtZ.o
+LOAD /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+LOAD /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+LOAD /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o
+LOAD Drivers/liblpcdriver.a
+START GROUP
+LOAD /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a
+LOAD /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a
+LOAD /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libc.a
+END GROUP
+LOAD /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+LOAD /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+START GROUP
+LOAD /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a
+LOAD /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libc.a
+END GROUP
+                0x0000000010008000                _vRamTop = 0x10008000
+                0xffffffffefff54f2                PROVIDE (__LPC_Checksum, (0x0 - ((((((_vStackTop + (Reset_Handler + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+
+.text           0x0000000000000000     0x1d38
+ *(.isr_vector)
+ .isr_vector    0x0000000000000000       0xc4 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+                0x0000000000000000                g_pfnVectors
+ *(.text*)
+ .text          0x00000000000000c4        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .text          0x00000000000000c4       0x5c /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .text          0x0000000000000120       0x74 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+                0x0000000000000120                _mainCRTStartup
+                0x0000000000000120                _start
+ .text          0x0000000000000194        0x0 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//ccT8NwtZ.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000194      0x164 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//ccT8NwtZ.o
+                0x0000000000000194                SystemCoreClockUpdate
+ .text.SystemInit
+                0x00000000000002f8      0x164 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//ccT8NwtZ.o
+                0x00000000000002f8                SystemInit
+ .text          0x000000000000045c        0x0 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+ .text._exit    0x000000000000045c       0x18 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+                0x000000000000045c                _exit
+ .text._close   0x0000000000000474       0x18 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+                0x0000000000000474                _close
+ .text._execve  0x000000000000048c       0x24 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+                0x000000000000048c                _execve
+ .text._fork    0x00000000000004b0       0x1c /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+                0x00000000000004b0                _fork
+ .text._fstat   0x00000000000004cc       0x20 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+                0x00000000000004cc                _fstat
+ .text._getpid  0x00000000000004ec       0x10 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+                0x00000000000004ec                _getpid
+ .text._isatty  0x00000000000004fc       0x2c /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+                0x00000000000004fc                _isatty
+ .text._kill    0x0000000000000528       0x24 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+                0x0000000000000528                _kill
+ .text._link    0x000000000000054c       0x24 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+                0x000000000000054c                _link
+ .text._lseek   0x0000000000000570       0x18 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+                0x0000000000000570                _lseek
+ .text._sbrk    0x0000000000000588       0x70 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+                0x0000000000000588                _sbrk
+ .text._read    0x00000000000005f8       0x34 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+                0x00000000000005f8                _read
+ .text._stat    0x000000000000062c       0x20 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+                0x000000000000062c                _stat
+ .text._times   0x000000000000064c       0x18 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+                0x000000000000064c                _times
+ .text._unlink  0x0000000000000664       0x20 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+                0x0000000000000664                _unlink
+ .text._wait    0x0000000000000684       0x20 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+                0x0000000000000684                _wait
+ .text._write   0x00000000000006a4       0x34 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+                0x00000000000006a4                _write
+ .text          0x00000000000006d8        0x0 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+ .text.Reset_Handler
+                0x00000000000006d8       0x58 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+                0x00000000000006d8                Reset_Handler
+                0x00000000000006d8                ResetISR
+ .text.NMI_Handler
+                0x0000000000000730        0x8 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+                0x0000000000000730                NMI_Handler
+ .text.HardFault_Handler
+                0x0000000000000738        0x8 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+                0x0000000000000738                HardFault_Handler
+ .text.MemManage_Handler
+                0x0000000000000740        0x8 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+                0x0000000000000740                MemManage_Handler
+ .text.BusFault_Handler
+                0x0000000000000748        0x8 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+                0x0000000000000748                BusFault_Handler
+ .text.UsageFault_Handler
+                0x0000000000000750        0x8 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+                0x0000000000000750                UsageFault_Handler
+ .text.SVC_Handler
+                0x0000000000000758        0x8 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+ .text.DebugMon_Handler
+                0x0000000000000760        0x8 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+ .text.PendSV_Handler
+                0x0000000000000768        0xc /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+ .text.SysTick_Handler
+                0x0000000000000774        0xc /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+ .text.IntDefaultHandler
+                0x0000000000000780        0x8 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+                0x0000000000000780                ENET_IRQHandler
+                0x0000000000000780                RIT_IRQHandler
+                0x0000000000000780                I2C0_IRQHandler
+                0x0000000000000780                PWM1_IRQHandler
+                0x0000000000000780                I2C1_IRQHandler
+                0x0000000000000780                EINT2_IRQHandler
+                0x0000000000000780                UART1_IRQHandler
+                0x0000000000000780                EINT3_IRQHandler
+                0x0000000000000780                TIMER3_IRQHandler
+                0x0000000000000780                UART0_IRQHandler
+                0x0000000000000780                PLL0_IRQHandler
+                0x0000000000000780                CAN_IRQHandler
+                0x0000000000000780                PLL1_IRQHandler
+                0x0000000000000780                SSP0_IRQHandler
+                0x0000000000000780                I2S_IRQHandler
+                0x0000000000000780                I2C2_IRQHandler
+                0x0000000000000780                RTC_IRQHandler
+                0x0000000000000780                TIMER0_IRQHandler
+                0x0000000000000780                SPI_IRQHandler
+                0x0000000000000780                EINT1_IRQHandler
+                0x0000000000000780                TIMER1_IRQHandler
+                0x0000000000000780                UART2_IRQHandler
+                0x0000000000000780                ADC_IRQHandler
+                0x0000000000000780                SSP1_IRQHandler
+                0x0000000000000780                USB_IRQHandler
+                0x0000000000000780                BOD_IRQHandler
+                0x0000000000000780                WDT_IRQHandler
+                0x0000000000000780                QEI_IRQHandler
+                0x0000000000000780                EINT0_IRQHandler
+                0x0000000000000780                DMA_IRQHandler
+                0x0000000000000780                UART3_IRQHandler
+                0x0000000000000780                MCPWM_IRQHandler
+                0x0000000000000780                TIMER2_IRQHandler
+ .text          0x0000000000000788        0x0 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o
+ .text.Init_Pwr
+                0x0000000000000788       0x14 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o
+                0x0000000000000788                Init_Pwr
+ .text.RedLED   0x000000000000079c       0x2c /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o
+                0x000000000000079c                RedLED
+ .text.BlueLED  0x00000000000007c8       0x2c /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o
+                0x00000000000007c8                BlueLED
+ .text.GreenLED
+                0x00000000000007f4       0x2c /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o
+                0x00000000000007f4                GreenLED
+ .text.Custom0LED
+                0x0000000000000820       0x2c /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o
+                0x0000000000000820                Custom0LED
+ .text.Custom1LED
+                0x000000000000084c       0x2c /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o
+                0x000000000000084c                Custom1LED
+ .text.Custom2LED
+                0x0000000000000878       0x2c /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o
+                0x0000000000000878                Custom2LED
+ .text.Custom3LED
+                0x00000000000008a4       0x2c /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o
+                0x00000000000008a4                Custom3LED
+ .text.Init_GPIO_Pins
+                0x00000000000008d0      0x108 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o
+                0x00000000000008d0                Init_GPIO_Pins
+ .text.main     0x00000000000009d8      0x244 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o
+                0x00000000000009d8                main
+ .text          0x0000000000000c1c        0x0 Drivers/liblpcdriver.a(lpc17xx_pinsel.o)
+ .text.PINSEL_ConfigTraceFunc
+                0x0000000000000c1c       0x24 Drivers/liblpcdriver.a(lpc17xx_pinsel.o)
+                0x0000000000000c1c                PINSEL_ConfigTraceFunc
+ .text.PINSEL_SetI2C0Pins
+                0x0000000000000c40       0x14 Drivers/liblpcdriver.a(lpc17xx_pinsel.o)
+                0x0000000000000c40                PINSEL_SetI2C0Pins
+ .text.PINSEL_ConfigPin
+                0x0000000000000c54       0x9c Drivers/liblpcdriver.a(lpc17xx_pinsel.o)
+                0x0000000000000c54                PINSEL_ConfigPin
+ .text          0x0000000000000cf0        0x0 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+ .text.GPIO_SetDir
+                0x0000000000000cf0       0x24 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000000cf0                GPIO_SetDir
+ .text.GPIO_SetValue
+                0x0000000000000d14       0x14 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000000d14                GPIO_SetValue
+ .text.GPIO_ClearValue
+                0x0000000000000d28       0x14 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000000d28                GPIO_ClearValue
+ .text.GPIO_ReadValue
+                0x0000000000000d3c       0x18 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000000d3c                GPIO_ReadValue
+ .text.GPIO_IntCmd
+                0x0000000000000d54       0x30 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000000d54                GPIO_IntCmd
+ .text.GPIO_GetIntStatus
+                0x0000000000000d84       0x48 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000000d84                GPIO_GetIntStatus
+ .text.GPIO_ClearInt
+                0x0000000000000dcc       0x18 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000000dcc                GPIO_ClearInt
+ .text.FIO_SetDir
+                0x0000000000000de4       0x24 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000000de4                FIO_SetDir
+ .text.FIO_SetValue
+                0x0000000000000e08       0x14 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000000e08                FIO_SetValue
+ .text.FIO_ClearValue
+                0x0000000000000e1c       0x14 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000000e1c                FIO_ClearValue
+ .text.FIO_ReadValue
+                0x0000000000000e30       0x18 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000000e30                FIO_ReadValue
+ .text.FIO_IntCmd
+                0x0000000000000e48        0x4 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000000e48                FIO_IntCmd
+ .text.FIO_GetIntStatus
+                0x0000000000000e4c        0x4 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000000e4c                FIO_GetIntStatus
+ .text.FIO_ClearInt
+                0x0000000000000e50       0x18 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000000e50                FIO_ClearInt
+ .text.FIO_SetMask
+                0x0000000000000e68       0x24 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000000e68                FIO_SetMask
+ .text.FIO_HalfWordSetDir
+                0x0000000000000e8c       0x4c Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000000e8c                FIO_HalfWordSetDir
+ .text.FIO_HalfWordSetMask
+                0x0000000000000ed8       0x4c Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000000ed8                FIO_HalfWordSetMask
+ .text.FIO_HalfWordSetValue
+                0x0000000000000f24       0x1c Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000000f24                FIO_HalfWordSetValue
+ .text.FIO_HalfWordClearValue
+                0x0000000000000f40       0x1c Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000000f40                FIO_HalfWordClearValue
+ .text.FIO_HalfWordReadValue
+                0x0000000000000f5c       0x24 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000000f5c                FIO_HalfWordReadValue
+ .text.FIO_ByteSetDir
+                0x0000000000000f80       0x34 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000000f80                FIO_ByteSetDir
+ .text.FIO_ByteSetMask
+                0x0000000000000fb4       0x38 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000000fb4                FIO_ByteSetMask
+ .text.FIO_ByteSetValue
+                0x0000000000000fec       0x1c Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000000fec                FIO_ByteSetValue
+ .text.FIO_ByteClearValue
+                0x0000000000001008       0x1c Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000001008                FIO_ByteClearValue
+ .text.FIO_ByteReadValue
+                0x0000000000001024       0x24 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                0x0000000000001024                FIO_ByteReadValue
+ .text          0x0000000000001048        0x0 Drivers/liblpcdriver.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_SetPCLKDiv
+                0x0000000000001048       0x54 Drivers/liblpcdriver.a(lpc17xx_clkpwr.o)
+                0x0000000000001048                CLKPWR_SetPCLKDiv
+ .text.CLKPWR_GetPCLKSEL
+                0x000000000000109c       0x20 Drivers/liblpcdriver.a(lpc17xx_clkpwr.o)
+                0x000000000000109c                CLKPWR_GetPCLKSEL
+ .text.CLKPWR_GetPCLK
+                0x00000000000010bc       0x40 Drivers/liblpcdriver.a(lpc17xx_clkpwr.o)
+                0x00000000000010bc                CLKPWR_GetPCLK
+ .text.CLKPWR_ConfigPPWR
+                0x00000000000010fc       0x34 Drivers/liblpcdriver.a(lpc17xx_clkpwr.o)
+                0x00000000000010fc                CLKPWR_ConfigPPWR
+ .text.CLKPWR_Sleep
+                0x0000000000001130       0x10 Drivers/liblpcdriver.a(lpc17xx_clkpwr.o)
+                0x0000000000001130                CLKPWR_Sleep
+ .text.CLKPWR_DeepSleep
+                0x0000000000001140       0x1c Drivers/liblpcdriver.a(lpc17xx_clkpwr.o)
+                0x0000000000001140                CLKPWR_DeepSleep
+ .text.CLKPWR_PowerDown
+                0x000000000000115c       0x1c Drivers/liblpcdriver.a(lpc17xx_clkpwr.o)
+                0x000000000000115c                CLKPWR_PowerDown
+ .text.CLKPWR_DeepPowerDown
+                0x0000000000001178       0x1c Drivers/liblpcdriver.a(lpc17xx_clkpwr.o)
+                0x0000000000001178                CLKPWR_DeepPowerDown
+ .text          0x0000000000001194        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-exit.o)
+ .text.exit     0x0000000000001194       0x20 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-exit.o)
+                0x0000000000001194                exit
+ .text          0x00000000000011b4        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-impure.o)
+ .text          0x00000000000011b4        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000000011b4       0x50 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-init.o)
+                0x00000000000011b4                __libc_init_array
+ .text          0x0000000000001204        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-memset.o)
+ .text.memset   0x0000000000001204       0x9c /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-memset.o)
+                0x0000000000001204                memset
+ .text          0x00000000000012a0        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000000012a0       0x1c /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-reent.o)
+                0x00000000000012a0                cleanup_glue
+ .text._reclaim_reent
+                0x00000000000012bc       0x88 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-reent.o)
+                0x00000000000012bc                _reclaim_reent
+ .text          0x0000000000001344        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x0000000000001344       0x14 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000001358       0xd8 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-__call_atexit.o)
+                0x0000000000001358                __call_exitprocs
+ .text          0x0000000000001430        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-atexit.o)
+ .text.atexit   0x0000000000001430        0xc /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-atexit.o)
+                0x0000000000001430                atexit
+ .text          0x000000000000143c        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x000000000000143c       0x28 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-fini.o)
+                0x000000000000143c                __libc_fini_array
+ .text          0x0000000000001464        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-freer.o)
+ .text._malloc_trim_r
+                0x0000000000001464       0x9c /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-freer.o)
+                0x0000000000001464                _malloc_trim_r
+ .text._free_r  0x0000000000001500      0x1d0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-freer.o)
+                0x0000000000001500                _free_r
+ .text          0x00000000000016d0        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-mallocr.o)
+ .text._malloc_r
+                0x00000000000016d0      0x558 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-mallocr.o)
+                0x00000000000016d0                _malloc_r
+ .text          0x0000000000001c28        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x0000000000001c28        0x4 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-mlock.o)
+                0x0000000000001c28                __malloc_lock
+ .text.__malloc_unlock
+                0x0000000000001c2c        0x4 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-mlock.o)
+                0x0000000000001c2c                __malloc_unlock
+ .text          0x0000000000001c30        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x0000000000001c30       0x24 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-sbrkr.o)
+                0x0000000000001c30                _sbrk_r
+ .text          0x0000000000001c54        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x0000000000001c54       0xa4 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-__atexit.o)
+                0x0000000000001c54                __register_exitproc
+ .text          0x0000000000001cf8        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .text          0x0000000000001cf8        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ *(.rodata*)
+ .rodata        0x0000000000001cf8       0x22 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+ *fill*         0x0000000000001d1a        0x2 
+ .rodata.CSWTCH.9
+                0x0000000000001d1c       0x14 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+ .rodata.str1.4
+                0x0000000000001d30        0x4 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-impure.o)
+                                          0x2 (size before relaxing)
+ .rodata._global_impure_ptr
+                0x0000000000001d34        0x4 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-impure.o)
+                0x0000000000001d34                _global_impure_ptr
+
+.glue_7         0x0000000000001d38        0x0
+ .glue_7        0x0000000000001d38        0x0 linker stubs
+
+.glue_7t        0x0000000000001d38        0x0
+ .glue_7t       0x0000000000001d38        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000001d38        0x0
+ .vfp11_veneer  0x0000000000001d38        0x0 linker stubs
+
+.v4_bx          0x0000000000001d38        0x0
+ .v4_bx         0x0000000000001d38        0x0 linker stubs
+
+.init           0x0000000000001d38        0xc
+ .init          0x0000000000001d38        0x4 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+                0x0000000000001d38                _init
+ .init          0x0000000000001d3c        0x8 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+
+.fini           0x0000000000001d44        0xc
+ .fini          0x0000000000001d44        0x4 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+                0x0000000000001d44                _fini
+ .fini          0x0000000000001d48        0x8 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+
+.iplt           0x0000000000001d50        0x0
+ .iplt          0x0000000000001d50        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+
+.ARM.extab      0x0000000000001d50        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x0000000000001d50        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+                0x0000000000001d50                __exidx_start = .
+
+.eh_frame       0x0000000000001d50        0x4
+ .eh_frame      0x0000000000001d50        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .eh_frame      0x0000000000001d50        0x4 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+
+.ARM.exidx      0x0000000000001d54        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0000000000001d54        0x8 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+                0x0000000000001d5c                __exidx_end = .
+                0x0000000000001d5c                _etext = .
+
+.rel.dyn        0x0000000000001d5c        0x0
+ .rel.iplt      0x0000000000001d5c        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+
+.data           0x0000000010000000      0x84c load address 0x0000000000001d5c
+                0x0000000010000000                _data = .
+ *(vtable)
+ *(.data*)
+ .data          0x0000000010000000        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .data          0x0000000010000000        0x4 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+                0x0000000010000000                __dso_handle
+ .data          0x0000000010000004        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .data          0x0000000010000004        0x0 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//ccT8NwtZ.o
+ .data.SystemCoreClock
+                0x0000000010000004        0x4 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//ccT8NwtZ.o
+                0x0000000010000004                SystemCoreClock
+ .data          0x0000000010000008        0x0 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+ .data.environ  0x0000000010000008        0x4 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+                0x0000000010000008                environ
+ .data          0x000000001000000c        0x0 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+ .data          0x000000001000000c        0x0 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o
+ .data          0x000000001000000c        0x0 Drivers/liblpcdriver.a(lpc17xx_pinsel.o)
+ .data          0x000000001000000c        0x0 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+ .data          0x000000001000000c        0x0 Drivers/liblpcdriver.a(lpc17xx_clkpwr.o)
+ .data          0x000000001000000c        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-exit.o)
+ .data          0x000000001000000c        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-impure.o)
+ *fill*         0x000000001000000c        0x4 
+ .data.impure_data
+                0x0000000010000010      0x428 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000010000438        0x4 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-impure.o)
+                0x0000000010000438                _impure_ptr
+ .data          0x000000001000043c        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-init.o)
+ .data          0x000000001000043c        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-memset.o)
+ .data          0x000000001000043c        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-reent.o)
+ .data          0x000000001000043c        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-__call_atexit.o)
+ .data          0x000000001000043c        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-atexit.o)
+ .data          0x000000001000043c        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-fini.o)
+ .data          0x000000001000043c        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-freer.o)
+ .data          0x000000001000043c        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-mallocr.o)
+ .data.__malloc_av_
+                0x000000001000043c      0x408 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-mallocr.o)
+                0x000000001000043c                __malloc_av_
+ .data.__malloc_trim_threshold
+                0x0000000010000844        0x4 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-mallocr.o)
+                0x0000000010000844                __malloc_trim_threshold
+ .data.__malloc_sbrk_base
+                0x0000000010000848        0x4 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-mallocr.o)
+                0x0000000010000848                __malloc_sbrk_base
+ .data          0x000000001000084c        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-mlock.o)
+ .data          0x000000001000084c        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-sbrkr.o)
+ .data          0x000000001000084c        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-__atexit.o)
+ .data          0x000000001000084c        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .data          0x000000001000084c        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+                0x000000001000084c                _edata = .
+
+.init_array     0x000000001000084c        0x4 load address 0x00000000000025a8
+ .init_array    0x000000001000084c        0x4 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+
+.fini_array     0x0000000010000850        0x4 load address 0x00000000000025ac
+ .fini_array    0x0000000010000850        0x4 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+
+.jcr            0x0000000010000854        0x4 load address 0x00000000000025b0
+ .jcr           0x0000000010000854        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .jcr           0x0000000010000854        0x4 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+
+.igot.plt       0x0000000010000858        0x0 load address 0x00000000000025b4
+ .igot.plt      0x0000000010000858        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+
+.init_array.00000
+                0x0000000010000858        0x4 load address 0x00000000000025b4
+ .init_array.00000
+                0x0000000010000858        0x4 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-__call_atexit.o)
+
+.bss            0x000000001000085c       0x5c load address 0x00000000000025b8
+                0x000000001000085c                _bss = .
+                0x000000001000085c                __bss_start__ = _bss
+ *(.bss*)
+ .bss           0x000000001000085c        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .bss           0x000000001000085c       0x1c /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .bss           0x0000000010000878        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .bss           0x0000000010000878        0x0 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//ccT8NwtZ.o
+ .bss           0x0000000010000878        0x0 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+ .bss.heap_end  0x0000000010000878        0x4 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+ .bss.__env     0x000000001000087c        0x4 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+                0x000000001000087c                __env
+ .bss           0x0000000010000880        0x0 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+ .bss           0x0000000010000880        0x0 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o
+ .bss           0x0000000010000880        0x0 Drivers/liblpcdriver.a(lpc17xx_pinsel.o)
+ .bss           0x0000000010000880        0x0 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+ .bss           0x0000000010000880        0x0 Drivers/liblpcdriver.a(lpc17xx_clkpwr.o)
+ .bss           0x0000000010000880        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-exit.o)
+ .bss           0x0000000010000880        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-impure.o)
+ .bss           0x0000000010000880        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-init.o)
+ .bss           0x0000000010000880        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-memset.o)
+ .bss           0x0000000010000880        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-reent.o)
+ .bss           0x0000000010000880        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-__call_atexit.o)
+ .bss           0x0000000010000880        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-atexit.o)
+ .bss           0x0000000010000880        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-fini.o)
+ .bss           0x0000000010000880        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-freer.o)
+ .bss           0x0000000010000880        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-mallocr.o)
+ .bss.__malloc_max_total_mem
+                0x0000000010000880        0x4 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-mallocr.o)
+                0x0000000010000880                __malloc_max_total_mem
+ .bss.__malloc_max_sbrked_mem
+                0x0000000010000884        0x4 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-mallocr.o)
+                0x0000000010000884                __malloc_max_sbrked_mem
+ .bss.__malloc_top_pad
+                0x0000000010000888        0x4 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-mallocr.o)
+                0x0000000010000888                __malloc_top_pad
+ .bss.__malloc_current_mallinfo
+                0x000000001000088c       0x28 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-mallocr.o)
+                0x000000001000088c                __malloc_current_mallinfo
+ .bss           0x00000000100008b4        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-mlock.o)
+ .bss           0x00000000100008b4        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-sbrkr.o)
+ .bss           0x00000000100008b4        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-__atexit.o)
+ .bss           0x00000000100008b4        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .bss           0x00000000100008b4        0x0 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ *(COMMON)
+ COMMON         0x00000000100008b4        0x4 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-reent.o)
+                0x00000000100008b4                errno
+                0x00000000100008b8                _ebss = .
+                0x00000000100008b8                __bss_end__ = _ebss
+
+.cr_heap        0x00000000100008b8        0x0
+                0x00000000100008b8                end = .
+                0x00000000100008b8                _pvHeapStart = .
+                0x0000000010007ff0                _vStackTop = (_vRamTop - 0x10)
+
+.ETHRAM
+
+.USBRAM
+OUTPUT(main.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x29
+ .ARM.attributes
+                0x0000000000000000       0x1d /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .ARM.attributes
+                0x000000000000001d       0x2d /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x1b /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.attributes
+                0x0000000000000065       0x33 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//ccT8NwtZ.o
+ .ARM.attributes
+                0x0000000000000098       0x33 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+ .ARM.attributes
+                0x00000000000000cb       0x33 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+ .ARM.attributes
+                0x00000000000000fe       0x33 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o
+ .ARM.attributes
+                0x0000000000000131       0x33 Drivers/liblpcdriver.a(lpc17xx_pinsel.o)
+ .ARM.attributes
+                0x0000000000000164       0x33 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+ .ARM.attributes
+                0x0000000000000197       0x33 Drivers/liblpcdriver.a(lpc17xx_clkpwr.o)
+ .ARM.attributes
+                0x00000000000001ca       0x2d /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000000001f7       0x2d /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000224       0x2d /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000251       0x2d /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000000000000027e       0x2d /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000000000002ab       0x2d /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000000002d8       0x2d /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000305       0x2d /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000332       0x2d /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-freer.o)
+ .ARM.attributes
+                0x000000000000035f       0x2d /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x000000000000038c       0x2d /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000000000003b9       0x2d /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000000003e6       0x2d /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000000000000413       0x2d /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .ARM.attributes
+                0x0000000000000440       0x1d /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+
+.comment        0x0000000000000000       0x6e
+ .comment       0x0000000000000000       0x6e /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//ccT8NwtZ.o
+                                         0x6f (size before relaxing)
+ .comment       0x000000000000006e       0x6f /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+ .comment       0x000000000000006e       0x6f /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+ .comment       0x000000000000006e       0x6f /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o
+ .comment       0x000000000000006e       0x6f Drivers/liblpcdriver.a(lpc17xx_pinsel.o)
+ .comment       0x000000000000006e       0x6f Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+ .comment       0x000000000000006e       0x6f Drivers/liblpcdriver.a(lpc17xx_clkpwr.o)
+
+.debug_info     0x0000000000000000     0x2ae9
+ .debug_info    0x0000000000000000      0x507 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//ccT8NwtZ.o
+ .debug_info    0x0000000000000507      0x6f0 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+ .debug_info    0x0000000000000bf7      0x1e3 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+ .debug_info    0x0000000000000dda      0x286 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o
+ .debug_info    0x0000000000001060      0x507 Drivers/liblpcdriver.a(lpc17xx_pinsel.o)
+ .debug_info    0x0000000000001567      0xeaf Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+ .debug_info    0x0000000000002416      0x6d3 Drivers/liblpcdriver.a(lpc17xx_clkpwr.o)
+
+.debug_abbrev   0x0000000000000000      0xac4
+ .debug_abbrev  0x0000000000000000      0x12c /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//ccT8NwtZ.o
+ .debug_abbrev  0x000000000000012c      0x1aa /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+ .debug_abbrev  0x00000000000002d6      0x109 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+ .debug_abbrev  0x00000000000003df       0xfe /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o
+ .debug_abbrev  0x00000000000004dd      0x15b Drivers/liblpcdriver.a(lpc17xx_pinsel.o)
+ .debug_abbrev  0x0000000000000638      0x258 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+ .debug_abbrev  0x0000000000000890      0x234 Drivers/liblpcdriver.a(lpc17xx_clkpwr.o)
+
+.debug_aranges  0x0000000000000000      0x308
+ .debug_aranges
+                0x0000000000000000       0x28 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//ccT8NwtZ.o
+ .debug_aranges
+                0x0000000000000028       0xa0 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+ .debug_aranges
+                0x00000000000000c8       0x70 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+ .debug_aranges
+                0x0000000000000138       0x68 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o
+ .debug_aranges
+                0x00000000000001a0       0x30 Drivers/liblpcdriver.a(lpc17xx_pinsel.o)
+ .debug_aranges
+                0x00000000000001d0       0xe0 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+ .debug_aranges
+                0x00000000000002b0       0x58 Drivers/liblpcdriver.a(lpc17xx_clkpwr.o)
+
+.debug_ranges   0x0000000000000000      0x308
+ .debug_ranges  0x0000000000000000       0x18 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//ccT8NwtZ.o
+ .debug_ranges  0x0000000000000018       0x90 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+ .debug_ranges  0x00000000000000a8       0x60 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+ .debug_ranges  0x0000000000000108       0x58 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o
+ .debug_ranges  0x0000000000000160       0x78 Drivers/liblpcdriver.a(lpc17xx_pinsel.o)
+ .debug_ranges  0x00000000000001d8       0xd0 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+ .debug_ranges  0x00000000000002a8       0x60 Drivers/liblpcdriver.a(lpc17xx_clkpwr.o)
+
+.debug_line     0x0000000000000000     0x1142
+ .debug_line    0x0000000000000000      0x1a6 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//ccT8NwtZ.o
+ .debug_line    0x00000000000001a6      0x2b9 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+ .debug_line    0x000000000000045f      0x1ff /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+ .debug_line    0x000000000000065e      0x334 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o
+ .debug_line    0x0000000000000992      0x1c0 Drivers/liblpcdriver.a(lpc17xx_pinsel.o)
+ .debug_line    0x0000000000000b52      0x3a7 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+ .debug_line    0x0000000000000ef9      0x249 Drivers/liblpcdriver.a(lpc17xx_clkpwr.o)
+
+.debug_str      0x0000000000000000      0xf94
+ .debug_str     0x0000000000000000      0x385 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//ccT8NwtZ.o
+                                        0x3d2 (size before relaxing)
+ .debug_str     0x0000000000000385      0x21c /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+                                        0x42b (size before relaxing)
+ .debug_str     0x00000000000005a1      0x106 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+                                        0x2a7 (size before relaxing)
+ .debug_str     0x00000000000006a7       0xbb /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o
+                                        0x293 (size before relaxing)
+ .debug_str     0x0000000000000762      0x33e Drivers/liblpcdriver.a(lpc17xx_pinsel.o)
+                                        0x467 (size before relaxing)
+ .debug_str     0x0000000000000aa0      0x42c Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+                                        0x65e (size before relaxing)
+ .debug_str     0x0000000000000ecc       0xc8 Drivers/liblpcdriver.a(lpc17xx_clkpwr.o)
+                                        0x494 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0xb70
+ .debug_frame   0x0000000000000000       0x58 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//ccT8NwtZ.o
+ .debug_frame   0x0000000000000058      0x2a0 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cc6HmGNt.o
+ .debug_frame   0x00000000000002f8      0x130 /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cci0bAse.o
+ .debug_frame   0x0000000000000428      0x16c /var/folders/5s/tsykp9vj2xx4qd30p6pkdybr0000gq/T//cczqlKz2.o
+ .debug_frame   0x0000000000000594       0x58 Drivers/liblpcdriver.a(lpc17xx_pinsel.o)
+ .debug_frame   0x00000000000005ec      0x208 Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+ .debug_frame   0x00000000000007f4       0xa0 Drivers/liblpcdriver.a(lpc17xx_clkpwr.o)
+ .debug_frame   0x0000000000000894       0x28 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-exit.o)
+ .debug_frame   0x00000000000008bc       0x2c /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-init.o)
+ .debug_frame   0x00000000000008e8       0x34 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-memset.o)
+ .debug_frame   0x000000000000091c       0x58 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-reent.o)
+ .debug_frame   0x0000000000000974       0x50 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000000009c4       0x20 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-atexit.o)
+ .debug_frame   0x00000000000009e4       0x34 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000a18       0x74 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-freer.o)
+ .debug_frame   0x0000000000000a8c       0x54 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-mallocr.o)
+ .debug_frame   0x0000000000000ae0       0x30 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000b10       0x2c /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000b3c       0x34 /Users/dev/mac-build/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libg.a(lib_a-__atexit.o)
+
+.debug_loc      0x0000000000000000      0xc29
+ .debug_loc     0x0000000000000000      0x165 Drivers/liblpcdriver.a(lpc17xx_pinsel.o)
+ .debug_loc     0x0000000000000165      0x85d Drivers/liblpcdriver.a(lpc17xx_gpio.o)
+ .debug_loc     0x00000000000009c2      0x267 Drivers/liblpcdriver.a(lpc17xx_clkpwr.o)
