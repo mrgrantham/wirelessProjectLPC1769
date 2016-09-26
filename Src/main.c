@@ -110,11 +110,13 @@ void EINT3_IRQHandler(void)
 		Custom2LED(0);
 		*/
 		if (LPC_GPIOINT->IO2IntStatR & (1<<PINSEL_PIN_10)) {
+			testTX(0);
 			Custom2LED(1);
 			//on = 0;
 			LPC_GPIOINT->IO2IntClr=(1<<PINSEL_PIN_10);
 		}
 		if (LPC_GPIOINT->IO2IntStatF & (1<<PINSEL_PIN_10)){
+			testTX(1);
 			Custom2LED(0);
 			//on = 1;
 			LPC_GPIOINT->IO2IntClr=(1<<PINSEL_PIN_10);
@@ -211,102 +213,123 @@ void Init_GPIO_Pins(void)
 	Custom1LED(1);
 	Custom2LED(0);
 	Custom3LED(1);
+	testTX(1);
 	//testSwitch(1);
 
 }
 
+void GPIOgeneralTest() {
+
+	int i;
+
+	RedLED(0);
+	for(i = 0; i < 100000; i++);
+	RedLED(1);
+	for(i = 0; i < 100000; i++);
+
+	RedLED(0);
+	BlueLED(0);
+	for(i = 0; i < 100000; i++);
+	BlueLED(1);
+	RedLED(1);
+	for(i = 0; i < 100000; i++);
+
+	BlueLED(0);
+	GreenLED(0);
+	for(i = 0; i < 100000; i++);
+	GreenLED(1);
+	BlueLED(1);
+	for(i = 0; i < 100000; i++);
+
+
+	BlueLED(0);
+	for(i = 0; i < 100000; i++);
+	BlueLED(1);
+	for(i = 0; i < 100000; i++);
+
+	GreenLED(0);
+	for(i = 0; i < 100000; i++);
+	GreenLED(1);
+	for(i = 0; i < 100000; i++);
+
+	GreenLED(0);
+	RedLED(0);
+	for(i = 0; i < 300000; i++);
+	GreenLED(1);
+	RedLED(1);
+	for(i = 0; i < 300000; i++);
+
+	Custom0LED(0);
+	for(i = 0; i < 300000; i++);
+	Custom0LED(1);
+	for(i = 0; i < 300000; i++);
+
+
+	Custom1LED(0);
+	for(i = 0; i < 300000; i++);
+	Custom1LED(1);
+	for(i = 0; i < 300000; i++);
+
+
+	//checkTestSwitch(); // to check the value at the test switch when set to input with no interrupts
+	Custom2LED(1);
+	for(i = 0; i < 1000000; i++);
+	Custom2LED(0);
+	for(i = 0; i < 1000000; i++);
+	Custom2LED(1);
+	for(i = 0; i < 1000000; i++);
+	Custom2LED(0);
+	for(i = 0; i < 1000000; i++);
+	Custom2LED(1);
+	for(i = 0; i < 1000000; i++);
+	Custom2LED(0);
+	for(i = 0; i < 1000000; i++);
+
+
+	Custom3LED(0);
+	for(i = 0; i < 1000000; i++);
+	Custom3LED(1);
+	for(i = 0; i < 1000000; i++);
+
+	testTX(0);
+	for(i = 0; i < 1000000; i++);
+	testTX(1);
+	for(i = 0; i < 1000000; i++);
+
+	testRX(0);
+	for(i = 0; i < 1000000; i++);
+	testRX(1);
+	for(i = 0; i < 1000000; i++);
+
+	testSwitch(0);
+	for(i = 0; i < 3000000; i++);
+	testSwitch(1);
+	for(i = 0; i < 3000000; i++);
+
+}
+
+void testTransmission() {
+	int i;
+
+	testTX(0);
+	for(i = 0; i < 3000000; i++);
+	testTX(1);
+	for(i = 0; i < 3000000; i++);
+
+	testRX(0);
+	for(i = 0; i < 1000000; i++);
+	testRX(1);
+	for(i = 0; i < 1000000; i++);
+}
 
 int main(void)
 {
-	int i;
 	Init_Pwr();
 	Init_GPIO_Pins();
 
 	while(1)
 	{
-		// RedLED(0);
-		// for(i = 0; i < 100000; i++);
-		// RedLED(1);
-		// for(i = 0; i < 100000; i++);
-		//
-		// RedLED(0);
-		// BlueLED(0);
-		// for(i = 0; i < 100000; i++);
-		// BlueLED(1);
-		// RedLED(1);
-		// for(i = 0; i < 100000; i++);
-		//
-		// BlueLED(0);
-		// GreenLED(0);
-		// for(i = 0; i < 100000; i++);
-		// GreenLED(1);
-		// BlueLED(1);
-		// for(i = 0; i < 100000; i++);
-		//
-		//
-		// BlueLED(0);
-		// for(i = 0; i < 100000; i++);
-		// BlueLED(1);
-		// for(i = 0; i < 100000; i++);
-		//
-		// GreenLED(0);
-		// for(i = 0; i < 100000; i++);
-		// GreenLED(1);
-		// for(i = 0; i < 100000; i++);
-		//
-		// GreenLED(0);
-		// RedLED(0);
-		// for(i = 0; i < 300000; i++);
-		// GreenLED(1);
-		// RedLED(1);
-		// for(i = 0; i < 300000; i++);
-		//
-		// Custom0LED(0);
-		// for(i = 0; i < 300000; i++);
-		// Custom0LED(1);
-		// for(i = 0; i < 300000; i++);
-
-
-		// Custom1LED(0);
-		// for(i = 0; i < 300000; i++);
-		// Custom1LED(1);
-		// for(i = 0; i < 300000; i++);
-
-
-		//checkTestSwitch();
-		// Custom2LED(1);
-		// for(i = 0; i < 1000000; i++);
-		// Custom2LED(0);
-		// for(i = 0; i < 1000000; i++);
-		// Custom2LED(1);
-		// for(i = 0; i < 1000000; i++);
-		// Custom2LED(0);
-		// for(i = 0; i < 1000000; i++);
-		// Custom2LED(1);
-		// for(i = 0; i < 1000000; i++);
-		// Custom2LED(0);
-		// for(i = 0; i < 1000000; i++);
-		//
-		//
-		// Custom3LED(0);
-		// for(i = 0; i < 1000000; i++);
-		// Custom3LED(1);
-		// for(i = 0; i < 1000000; i++);
-		//
-		// testTX(0);
-		// for(i = 0; i < 1000000; i++);
-		// testTX(1);
-		// for(i = 0; i < 1000000; i++);
-		//
-		// testRX(0);
-		// for(i = 0; i < 1000000; i++);
-		// testRX(1);
-		// for(i = 0; i < 1000000; i++);
-		//
-		// testSwitch(0);
-		// for(i = 0; i < 3000000; i++);
-		// testSwitch(1);
-		// for(i = 0; i < 3000000; i++);
+		//testTransmission();
 
 	}
 
